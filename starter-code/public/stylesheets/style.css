@@ -1,0 +1,12 @@
+body {
+    color: blue;
+    background-color: bisque;
+    display: flex;
+    justify-content: center
+  }
+
+  #face {
+      width: 300px;
+  }
+
+ 
